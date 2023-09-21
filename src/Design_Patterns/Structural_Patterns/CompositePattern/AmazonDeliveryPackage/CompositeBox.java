@@ -2,7 +2,6 @@ package Design_Patterns.Structural_Patterns.CompositePattern.AmazonDeliveryPacka
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 public class CompositeBox implements Box{
