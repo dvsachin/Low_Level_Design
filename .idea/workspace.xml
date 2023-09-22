@@ -2,33 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638dc2df-269b-411f-8fe9-d5778603868c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/BurgerDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/ExtraCheeseBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/ExtraMayoBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/ZingerBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/DatabaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/FacebookNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/Notifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/WhatsAppNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/BaseNotifierDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/DatabaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/FacebookDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/INotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/Notifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/WhatsAppDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/BasePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/ExtraCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/ExtraPaneer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/Farmhouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/Margherita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/ToppingDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/VegDelight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_BuyCrypto/BuyCryptoFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_BuyCrypto/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/OderFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/SendNotification.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/AmazonDeliveryPackage/CompositeBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/AmazonDeliveryPackage/CompositeBox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,26 +54,13 @@
       <recent name="Design_Patterns.Structural_Patterns.DecoratorPattern.Solution" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Design_Patterns.Structural_Patterns.CompositePattern.AmazonDeliveryPackage.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Structural_Patterns.CompositePattern.AmazonDeliveryPackage.Main" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Structural_Patterns.FacadePattern.Example_OrderProduct.Client" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.Structural_Patterns.CompositePattern.AmazonDeliveryPackage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Design_Patterns.Structural_Patterns.CompositePattern.FileSystem_Solution.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Structural_Patterns.CompositePattern.FileSystem_Solution.Main" />
-      <module name="Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Design_Patterns.Structural_Patterns.CompositePattern.FileSystem_Solution.*" />
+          <option name="PATTERN" value="Design_Patterns.Structural_Patterns.FacadePattern.Example_OrderProduct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Design_Patterns.Structural_Patterns.FacadePattern.Example_BuyCrypto.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Structural_Patterns.FacadePattern.Example_BuyCrypto.Main" />
+      <module name="Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.Structural_Patterns.FacadePattern.Example_BuyCrypto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Design_Patterns.Structural_Patterns.DecoratorPattern.Example_Pizza.Main" />
       <module name="Low_Level_Design" />
@@ -137,21 +120,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Design_Patterns.Structural_Patterns.FacadePattern.Example_BuyCrypto.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Design_Patterns.Structural_Patterns.DecoratorPattern.Example_Burger.Main" />
         <item itemvalue="Application.Design_Patterns.Structural_Patterns.DecoratorPattern.Example_NotificationService.Solution.Main" />
-        <item itemvalue="Application.Design_Patterns.Structural_Patterns.CompositePattern.AmazonDeliveryPackage.Main" />
-        <item itemvalue="Application.Design_Patterns.Structural_Patterns.CompositePattern.FileSystem_Solution.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +146,8 @@
       <updated>1695213227508</updated>
       <workItem from="1695213228642" duration="5843000" />
       <workItem from="1695294898459" duration="5670000" />
-      <workItem from="1695301761040" duration="7389000" />
+      <workItem from="1695301761040" duration="7942000" />
+      <workItem from="1695363084627" duration="2809000" />
     </task>
     <servers />
   </component>
