@@ -2,31 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638dc2df-269b-411f-8fe9-d5778603868c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/BookCONSTANT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/BookFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/BookType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Problem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Problem/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Problem/Sprites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/HumanoidRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/IRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/RoboticDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/RoboticFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/Sprites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Problem/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Problem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/DocumentCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/ILetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/LetterFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_Caching/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_Caching/ProxyVideoDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_Caching/RealVideoDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_Caching/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_Caching/VideoDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/EmployeeDaoProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/Internet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/ProxyInternet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/RealInternet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,26 +59,13 @@
       <recent name="Design_Patterns.Structural_Patterns.DecoratorPattern.Solution" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Design_Patterns.Structural_Patterns.FlyweightPattern.Example_TextEditor.Solution.Main">
-    <configuration name="Design_Patterns.Structural_Patterns.FlyweightPattern.Example_AmazonBooks.Solution.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Structural_Patterns.FlyweightPattern.Example_AmazonBooks.Solution.Client" />
+  <component name="RunManager" selected="Application.Design_Patterns.Structural_Patterns.ProxyPattern.Example_Caching.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Structural_Patterns.ProxyPattern.Example_EmployeeAcessRestriction.Client" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.Structural_Patterns.FlyweightPattern.Example_AmazonBooks.Solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Design_Patterns.Structural_Patterns.FlyweightPattern.Example_Gaming.Problem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Structural_Patterns.FlyweightPattern.Example_Gaming.Problem.Main" />
-      <module name="Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Design_Patterns.Structural_Patterns.FlyweightPattern.Example_Gaming.Problem.*" />
+          <option name="PATTERN" value="Design_Patterns.Structural_Patterns.ProxyPattern.Example_EmployeeAcessRestriction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Structural_Patterns.FlyweightPattern.Example_Gaming.Solution.Main" />
+    <configuration name="Design_Patterns.Structural_Patterns.ProxyPattern.Example_Caching.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Structural_Patterns.ProxyPattern.Example_Caching.Client" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.Structural_Patterns.FlyweightPattern.Example_Gaming.Solution.*" />
+          <option name="PATTERN" value="Design_Patterns.Structural_Patterns.ProxyPattern.Example_Caching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,19 +112,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="Design_Patterns.Structural_Patterns.ProxyPattern.Example_InternetHostBlocked.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.Structural_Patterns.ProxyPattern.Example_InternetHostBlocked.Client" />
+      <module name="Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.Structural_Patterns.ProxyPattern.Example_InternetHostBlocked.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Design_Patterns.Structural_Patterns.ProxyPattern.Example_Caching.Client" />
+        <item itemvalue="Application.Design_Patterns.Structural_Patterns.ProxyPattern.Example_InternetHostBlocked.Client" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Design_Patterns.Structural_Patterns.FlyweightPattern.Example_TextEditor.Solution.Main" />
         <item itemvalue="Application.Design_Patterns.Structural_Patterns.FlyweightPattern.Example_TextEditor.Problem.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Design_Patterns.Structural_Patterns.FlyweightPattern.Example_Gaming.Problem.Main" />
-        <item itemvalue="Application.Design_Patterns.Structural_Patterns.FlyweightPattern.Example_AmazonBooks.Solution.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +154,8 @@
       <workItem from="1695213228642" duration="5843000" />
       <workItem from="1695294898459" duration="5670000" />
       <workItem from="1695301761040" duration="7942000" />
-      <workItem from="1695363084627" duration="17932000" />
+      <workItem from="1695363084627" duration="18733000" />
+      <workItem from="1695717666366" duration="5104000" />
     </task>
     <servers />
   </component>
