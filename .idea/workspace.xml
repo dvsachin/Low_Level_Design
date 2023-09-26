@@ -2,116 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638dc2df-269b-411f-8fe9-d5778603868c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_AuthService/AuthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_AuthService/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_AuthService/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_AuthService/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_AuthService/RoleCheckHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_AuthService/UserExistHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_AuthService/ValidPasswordHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_Logger/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_Logger/DebugLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_Logger/ErrorLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_Logger/InfoLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ChainOfResponsiblityPattern/Example_Logger/LogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RemoteControl/AirConditioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RemoteControl/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RemoteControl/ICommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RemoteControl/MyRemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RemoteControl/TurnACOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RemoteControl/TurnACOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RoomSensorLights/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RoomSensorLights/FloorLamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RoomSensorLights/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RoomSensorLights/LivingRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RoomSensorLights/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RoomSensorLights/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/CommandPattern/Example_RoomSensorLights/SwitchLightsCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/AdapterPattern/Adaptee/CSVData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/AdapterPattern/Adaptee/CSVData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/AdapterPattern/Adaptee/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/AdapterPattern/Adaptee/DataType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/AdapterPattern/Adaptee/XMLData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/AdapterPattern/Adaptee/XMLData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/AdapterPattern/Adapter/DataTypeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/AdapterPattern/Adapter/DataTypeAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/AdapterPattern/Adapter/JsonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/AdapterPattern/Adapter/JsonData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/AdapterPattern/Client/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/AdapterPattern/Client/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/AmazonDeliveryPackage/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/AmazonDeliveryPackage/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/AmazonDeliveryPackage/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/AmazonDeliveryPackage/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/AmazonDeliveryPackage/CompositeBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/AmazonDeliveryPackage/CompositeBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/AmazonDeliveryPackage/DeliveryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/AmazonDeliveryPackage/DeliveryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/AmazonDeliveryPackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/AmazonDeliveryPackage/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/AmazonDeliveryPackage/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/AmazonDeliveryPackage/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/AmazonDeliveryPackage/VideoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/AmazonDeliveryPackage/VideoGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/Calculator_Solution/ArithmeticExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/Calculator_Solution/ArithmeticExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/Calculator_Solution/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/Calculator_Solution/Expression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/Calculator_Solution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/Calculator_Solution/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/Calculator_Solution/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/Calculator_Solution/Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/Calculator_Solution/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/Calculator_Solution/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/FileSystem_Problem/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/FileSystem_Problem/Directory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/FileSystem_Problem/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/FileSystem_Problem/File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/FileSystem_Problem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/FileSystem_Problem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/FileSystem_Solution/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/FileSystem_Solution/Directory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/FileSystem_Solution/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/FileSystem_Solution/File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/FileSystem_Solution/FileSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/FileSystem_Solution/FileSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/CompositePattern/FileSystem_Solution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/CompositePattern/FileSystem_Solution/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Burger/Burger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/BurgerDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Burger/BurgerDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/ExtraCheeseBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Burger/ExtraCheeseBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/ExtraMayoBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Burger/ExtraMayoBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Burger/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Burger/ZingerBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Burger/ZingerBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/DatabaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/DatabaseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/FacebookNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/FacebookNotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/Notifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/Notifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/WhatsAppNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_NotificationService/Problem/WhatsAppNotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/BaseNotifierDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/BaseNotifierDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/DatabaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/DatabaseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/FacebookDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/FacebookDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/INotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/INotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/Notifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/Notifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/WhatsAppDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_NotificationService/Solution/WhatsAppDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/BasePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Pizza/BasePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/ExtraCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Pizza/ExtraCheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/ExtraPaneer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Pizza/ExtraPaneer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/Farmhouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Pizza/Farmhouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Pizza/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/Margherita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Pizza/Margherita.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/ToppingDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Pizza/ToppingDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/DecoratorPattern/Example_Pizza/VegDelight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/DecoratorPattern/Example_Pizza/VegDelight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_BuyCrypto/BuyCryptoFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FacadePattern/Example_BuyCrypto/BuyCryptoFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_BuyCrypto/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FacadePattern/Example_BuyCrypto/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FacadePattern/Example_OrderProduct/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FacadePattern/Example_OrderProduct/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/OderFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FacadePattern/Example_OrderProduct/OderFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FacadePattern/Example_OrderProduct/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FacadePattern/Example_OrderProduct/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FacadePattern/Example_OrderProduct/ProductDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FacadePattern/Example_OrderProduct/SendNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FacadePattern/Example_OrderProduct/SendNotification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/BookCONSTANT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/BookCONSTANT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Problem/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/BookFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/BookFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/BookType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/BookType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_AmazonBooks/Solution/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Problem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_Gaming/Problem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Problem/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_Gaming/Problem/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Problem/Sprites.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_Gaming/Problem/Sprites.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/HumanoidRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/HumanoidRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/IRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/IRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/RoboticDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/RoboticDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/RoboticFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/RoboticFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/Sprites.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_Gaming/Solution/Sprites.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Problem/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_TextEditor/Problem/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Problem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_TextEditor/Problem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/DocumentCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/DocumentCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/ILetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/ILetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/LetterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/LetterFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/FlyweightPattern/Example_TextEditor/Solution/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_Caching/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_Caching/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_Caching/ProxyVideoDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_Caching/ProxyVideoDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_Caching/RealVideoDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_Caching/RealVideoDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_Caching/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_Caching/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_Caching/VideoDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_Caching/VideoDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/EmployeeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/EmployeeDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/EmployeeDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/EmployeeDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/EmployeeDaoProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_EmployeeAcessRestriction/EmployeeDaoProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/Internet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/Internet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/ProxyInternet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/ProxyInternet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/RealInternet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/B_Structural_Patterns/ProxyPattern/Example_InternetHostBlocked/RealInternet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,13 +58,13 @@
       <recent name="Design_Patterns.Structural_Patterns.DecoratorPattern.Solution" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Design_Patterns.C_Behavioural_Patterns.ChainOfResponsiblityPattern.Example_Logger.Client">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.B_Structural_Patterns.ProxyPattern.Example_EmployeeAcessRestriction.Client" />
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.CommandPattern.Example_RemoteControl.Client" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.B_Structural_Patterns.ProxyPattern.Example_EmployeeAcessRestriction.*" />
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.CommandPattern.Example_RemoteControl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,19 +78,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Design_Patterns.B_Structural_Patterns.ProxyPattern.Example_Caching.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Design_Patterns.B_Structural_Patterns.ProxyPattern.Example_InternetHostBlocked.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.B_Structural_Patterns.ProxyPattern.Example_InternetHostBlocked.Client" />
-      <module name="Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Design_Patterns.B_Structural_Patterns.ProxyPattern.Example_InternetHostBlocked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,6 +111,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.CommandPattern.Example_RoomSensorLights.Main" />
+      <module name="Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.CommandPattern.Example_RoomSensorLights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
@@ -230,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.ChainOfResponsiblityPattern.Example_Logger.Client" />
         <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.ChainOfResponsiblityPattern.Client" />
         <item itemvalue="Application.Design_Patterns.B_Structural_Patterns.ProxyPattern.Example_Caching.Client" />
-        <item itemvalue="Application.Design_Patterns.B_Structural_Patterns.ProxyPattern.Example_InternetHostBlocked.Client" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +154,7 @@
       <workItem from="1695294898459" duration="5670000" />
       <workItem from="1695301761040" duration="7942000" />
       <workItem from="1695363084627" duration="18733000" />
-      <workItem from="1695717666366" duration="11514000" />
+      <workItem from="1695717666366" duration="16598000" />
     </task>
     <servers />
   </component>
