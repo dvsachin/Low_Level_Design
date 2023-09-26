@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638dc2df-269b-411f-8fe9-d5778603868c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_DecodeExpression/AndExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_DecodeExpression/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_DecodeExpression/InterpreterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_DecodeExpression/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_DecodeExpression/OrExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_DecodeExpression/TerminalExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_PostfixMathematicalExpression/AdditionExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_PostfixMathematicalExpression/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_PostfixMathematicalExpression/ExpressionParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_PostfixMathematicalExpression/ExpressionParserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_PostfixMathematicalExpression/MultiplicationExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_PostfixMathematicalExpression/NumberExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_PostfixMathematicalExpression/ParserUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/InterpreterPattern/Example_PostfixMathematicalExpression/SubtractionExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/IteratorPattern/Example_UserManagement/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/IteratorPattern/Example_UserManagement/MyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/IteratorPattern/Example_UserManagement/MyIteratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/IteratorPattern/Example_UserManagement/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/IteratorPattern/Example_UserManagement/UserManagement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Low_Level_Design.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Low_Level_Design.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +46,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/sachin/Work/GIT/Low_Level_Design",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -64,26 +57,13 @@
       <recent name="Design_Patterns.Structural_Patterns.DecoratorPattern.Solution" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ExpressionParserTest">
+  <component name="RunManager" selected="Application.Design_Patterns.C_Behavioural_Patterns.IteratorPattern.Example_UserManagement.Main">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.CommandPattern.Example_RemoteControl.Client" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.CommandPattern.Example_RemoteControl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Design_Patterns.C_Behavioural_Patterns.ChainOfResponsiblityPattern.Example_Logger.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.ChainOfResponsiblityPattern.Example_Logger.Client" />
-      <module name="Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.ChainOfResponsiblityPattern.Example_Logger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +84,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.CommandPattern.Example_RoomSensorLights.Main" />
+    <configuration name="Design_Patterns.C_Behavioural_Patterns.IteratorPattern.Example_UserManagement.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.IteratorPattern.Example_UserManagement.Main" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.CommandPattern.Example_RoomSensorLights.*" />
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.IteratorPattern.Example_UserManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionParserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.InterpreterPattern.Example_PostfixMathematicalExpression.ExpressionParserTest" />
+      <module name="Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.InterpreterPattern.Example_PostfixMathematicalExpression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.IteratorPattern.Example_UserManagement.Main" />
+        <item itemvalue="Application.ExpressionParserTest" />
         <item itemvalue="TestNG.ExpressionParserTest" />
         <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.InterpreterPattern.Example_DecodeExpression.Main" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.ChainOfResponsiblityPattern.Example_Logger.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +157,7 @@
       <workItem from="1695294898459" duration="5670000" />
       <workItem from="1695301761040" duration="7942000" />
       <workItem from="1695363084627" duration="18733000" />
-      <workItem from="1695717666366" duration="19661000" />
+      <workItem from="1695717666366" duration="22951000" />
     </task>
     <servers />
   </component>
