@@ -1,4 +1,4 @@
-package Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_YoutubeChService;
+package Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_YoutubeChService;
 
 import java.util.ArrayList;
 import java.util.List;

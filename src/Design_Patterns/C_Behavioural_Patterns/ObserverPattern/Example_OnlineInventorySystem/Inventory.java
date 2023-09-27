@@ -1,4 +1,4 @@
-package Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_OnlineInventorySystem;
+package Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_OnlineInventorySystem;
 // // Concrete Observable or Inventory or Channel
 public interface Inventory {
     public void add(User user);

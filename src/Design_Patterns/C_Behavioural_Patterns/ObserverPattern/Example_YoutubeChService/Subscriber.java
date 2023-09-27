@@ -1,4 +1,4 @@
-package Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_YoutubeChService;
+package Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_YoutubeChService;
 // Concrete Observer
 public class Subscriber implements User {
     String name;

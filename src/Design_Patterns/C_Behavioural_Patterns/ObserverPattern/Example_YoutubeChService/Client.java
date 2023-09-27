@@ -1,9 +1,8 @@
-package Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_YoutubeChService;
+package Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_YoutubeChService;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Objects;
 
 // client
 public class Client {

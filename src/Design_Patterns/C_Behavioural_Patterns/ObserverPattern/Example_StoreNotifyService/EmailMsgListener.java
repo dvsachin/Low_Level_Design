@@ -1,4 +1,4 @@
-package Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_StoreNotifyService;
+package Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_StoreNotifyService;
 
 public record EmailMsgListener(String email) implements Listener {
     @Override

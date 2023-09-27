@@ -1,4 +1,4 @@
-package Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_YoutubeChService;
+package Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_YoutubeChService;
 
 public interface Subject {
     void subscribe(User u);

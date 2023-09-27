@@ -1,4 +1,4 @@
-package Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_OnlineInventorySystem;
+package Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_OnlineInventorySystem;
 
 import java.util.ArrayList;
 import java.util.List;

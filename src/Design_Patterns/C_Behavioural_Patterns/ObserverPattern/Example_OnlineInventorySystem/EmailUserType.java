@@ -1,4 +1,4 @@
-package Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_OnlineInventorySystem;
+package Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_OnlineInventorySystem;
 // // ObserverConcrete
 public class EmailUserType implements User{
 

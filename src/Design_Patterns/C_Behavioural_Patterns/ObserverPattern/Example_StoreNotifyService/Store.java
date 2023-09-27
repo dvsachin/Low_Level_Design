@@ -1,7 +1,7 @@
-package Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_StoreNotifyService;
+package Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_StoreNotifyService;
 
-import static Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_StoreNotifyService.Event.NEW_ITEM;
-import static Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_StoreNotifyService.Event.SALE;
+import static Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_StoreNotifyService.Event.NEW_ITEM;
+import static Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_StoreNotifyService.Event.SALE;
 
 public class Store {
 
