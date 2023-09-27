@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638dc2df-269b-411f-8fe9-d5778603868c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/TemplateMethodPattern/Example_GameLoader/BaseGameLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/TemplateMethodPattern/Example_GameLoader/DiabloLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/TemplateMethodPattern/Example_GameLoader/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/TemplateMethodPattern/Example_GameLoader/WorldOfWarcraftLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/VisitorPattern/Example_InsurenceCompany/InsuranceMessagingVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/VisitorPattern/Example_InsurenceCompany/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/VisitorPattern/Example_InsurenceCompany/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/VisitorPattern/Example_InsurenceCompany/models/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/VisitorPattern/Example_InsurenceCompany/models/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/VisitorPattern/Example_InsurenceCompany/models/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/VisitorPattern/Example_InsurenceCompany/models/Resident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/VisitorPattern/Example_InsurenceCompany/models/Restaurant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +64,7 @@
       <recent name="Design_Patterns.Structural_Patterns.DecoratorPattern.Solution" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Design_Patterns.C_Behavioural_Patterns.TemplateMethodPattern.Example_GameLoader.MainApp">
+  <component name="RunManager" selected="Application.Design_Patterns.C_Behavioural_Patterns.VisitorPattern.Example_InsurenceCompany.MainApp">
     <configuration name="Design_Patterns.C_Behavioural_Patterns.StrategyPattern.Example_DriveStrategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.StrategyPattern.Example_DriveStrategy.Main" />
       <module name="Low_Level_Design" />
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_VendingMachine.Main" />
+    <configuration name="Design_Patterns.C_Behavioural_Patterns.VisitorPattern.Example_InsurenceCompany.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.VisitorPattern.Example_InsurenceCompany.MainApp" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_VendingMachine.*" />
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.VisitorPattern.Example_InsurenceCompany.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_PhoneStates.MainApp" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_VendingMachine.Main" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_PhoneStates.states.*" />
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_VendingMachine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.VisitorPattern.Example_InsurenceCompany.MainApp" />
         <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.TemplateMethodPattern.Example_GameLoader.MainApp" />
         <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.StrategyPattern.Example_DriveStrategy.Main" />
         <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.StrategyPattern.Example_PaymentService.MainApp" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_PhoneStates.MainApp" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +160,7 @@
       <workItem from="1695294898459" duration="5670000" />
       <workItem from="1695301761040" duration="7942000" />
       <workItem from="1695363084627" duration="18733000" />
-      <workItem from="1695717666366" duration="49171000" />
+      <workItem from="1695717666366" duration="50658000" />
     </task>
     <servers />
   </component>
