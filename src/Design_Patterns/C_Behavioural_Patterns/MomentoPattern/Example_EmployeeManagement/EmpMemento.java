@@ -1,0 +1,30 @@
+package Design_Patterns.C_Behavioural_Patterns.MomentoPattern.Example_EmployeeManagement;
+
+public class EmpMemento {
+    private int empId;
+    private String empName;
+    private String empPhoneNo;
+    private String empDesignation;
+    public EmpMemento(int empId,String empName,String empPhoneNo,String empDesignation) {
+        this.empId = empId;
+        this.empName = empName;
+        this.empPhoneNo = empPhoneNo;
+        this.empDesignation = empDesignation;
+    }
+    public int getEmpId() {
+        return empId;
+    }
+    public String getEmpName() {
+        return empName;
+    }
+    public String getEmpDesignation() {
+        return empDesignation;
+    }
+    public String getEmpPhoneNo() {
+        return empPhoneNo;
+    }
+    @Override
+    public String toString(){
+        return "Current Memento State" + this.empId +" , "+ this.empName +" , "+ this.getEmpPhoneNo()+" , "+ this.getEmpDesignation();
+    }
+}
