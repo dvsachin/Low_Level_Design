@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638dc2df-269b-411f-8fe9-d5778603868c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/IteratorPattern/Example_UserManagement/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/IteratorPattern/Example_UserManagement/MyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/IteratorPattern/Example_UserManagement/MyIteratorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/IteratorPattern/Example_UserManagement/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/IteratorPattern/Example_UserManagement/UserManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_LoginButton/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_LoginButton/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_LoginButton/ForgotPasswordButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_LoginButton/LoginButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_LoginButton/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_LoginButton/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_WarZone/ArmedUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_WarZone/Commander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_WarZone/CommanderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_WarZone/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_WarZone/SoldierUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MediatorPattern/Example_WarZone/TankUnit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,20 +64,7 @@
       <recent name="Design_Patterns.Structural_Patterns.DecoratorPattern.Solution" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Design_Patterns.C_Behavioural_Patterns.IteratorPattern.Example_UserManagement.Main">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.CommandPattern.Example_RemoteControl.Client" />
-      <module name="Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.CommandPattern.Example_RemoteControl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Design_Patterns.C_Behavioural_Patterns.InterpreterPattern.Example_DecodeExpression.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.InterpreterPattern.Example_DecodeExpression.Main" />
       <module name="Low_Level_Design" />
@@ -110,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.MediatorPattern.Example_WarZone.Main" />
+      <module name="Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.MediatorPattern.Example_WarZone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
@@ -137,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.IteratorPattern.Example_UserManagement.Main" />
         <item itemvalue="Application.ExpressionParserTest" />
         <item itemvalue="TestNG.ExpressionParserTest" />
         <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.InterpreterPattern.Example_DecodeExpression.Main" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +164,7 @@
       <workItem from="1695294898459" duration="5670000" />
       <workItem from="1695301761040" duration="7942000" />
       <workItem from="1695363084627" duration="18733000" />
-      <workItem from="1695717666366" duration="22951000" />
+      <workItem from="1695717666366" duration="25507000" />
     </task>
     <servers />
   </component>
