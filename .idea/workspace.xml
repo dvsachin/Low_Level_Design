@@ -2,31 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638dc2df-269b-411f-8fe9-d5778603868c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/Example_EmployeeManagement/EmpCaretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/Example_EmployeeManagement/EmpMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/Example_EmployeeManagement/EmpOriginator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/Example_EmployeeManagement/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/Example_TextEditor/Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/Example_TextEditor/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/Example_TextEditor/TextArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_OnlineInventorySystem/EmailUserType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_OnlineInventorySystem/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_OnlineInventorySystem/IphoneStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_OnlineInventorySystem/MobileUserType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_OnlineInventorySystem/StoreShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_OnlineInventorySystem/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_StoreNotifyService/EmailMsgListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_StoreNotifyService/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_StoreNotifyService/Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_StoreNotifyService/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_StoreNotifyService/MobileAppListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_StoreNotifyService/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_StoreNotifyService/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_YoutubeChService/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_YoutubeChService/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_YoutubeChService/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_YoutubeChService/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_YoutubeChService/YoutubeChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_PhoneStates/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_PhoneStates/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_PhoneStates/states/LockedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_PhoneStates/states/OffState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_PhoneStates/states/ReadyState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_PhoneStates/states/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/ItemShelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/ItemType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/states/DispenseState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/states/HasMoneyState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/states/IdleState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/states/SelectionState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StatePattern/Example_VendingMachine/states/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,17 +66,20 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_VendingMachine" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Design_Patterns.Structural_Patterns.DecoratorPattern.Solution" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StoreShop">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_YoutubeChService.Client" />
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_YoutubeChService.Client" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_YoutubeChService.*" />
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_YoutubeChService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.Example_EmployeeManagement.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.Example_EmployeeManagement.Main" />
+    <configuration name="Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_StoreNotifyService.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_StoreNotifyService.MainApp" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.Example_EmployeeManagement.*" />
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_StoreNotifyService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_StoreNotifyService.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_StoreNotifyService.MainApp" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_VendingMachine.Main" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_StoreNotifyService.*" />
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_VendingMachine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.Example_TextEditor.MainApp" />
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_PhoneStates.MainApp" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.Example_TextEditor.*" />
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_PhoneStates.states.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="StoreShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_OnlineInventorySystem.StoreShop" />
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_OnlineInventorySystem.StoreShop" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_OnlineInventorySystem.*" />
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_OnlineInventorySystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_PhoneStates.MainApp" />
         <item itemvalue="Application.StoreShop" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.MomentoPattern.ObserverPattern.Example_StoreNotifyService.MainApp" />
-        <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.MomentoPattern.Example_EmployeeManagement.Main" />
-        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_StoreNotifyService.MainApp" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +169,7 @@
       <workItem from="1695294898459" duration="5670000" />
       <workItem from="1695301761040" duration="7942000" />
       <workItem from="1695363084627" duration="18733000" />
-      <workItem from="1695717666366" duration="39886000" />
+      <workItem from="1695717666366" duration="43825000" />
     </task>
     <servers />
   </component>
@@ -195,7 +191,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/MomentoPattern/ObserverPattern/Example_YoutubeChService/Subscriber.java</url>
+          <url>file://$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ObserverPattern/Example_YoutubeChService/Subscriber.java</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
