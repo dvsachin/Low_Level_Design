@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638dc2df-269b-411f-8fe9-d5778603868c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_DriveStrategy/GoodsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_DriveStrategy/OffRoadVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_DriveStrategy/PersonalVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_DriveStrategy/SportsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_DriveStrategy/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_DriveStrategy/strategy/DriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_DriveStrategy/strategy/NormalDriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_DriveStrategy/strategy/PassengerDriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_DriveStrategy/strategy/SportDriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_PaymentService/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_PaymentService/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_PaymentService/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_PaymentService/strategy/PaymentByCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_PaymentService/strategy/PaymentByPayPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_PaymentService/strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/TemplateMethodPattern/Example_GameLoader/BaseGameLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/TemplateMethodPattern/Example_GameLoader/DiabloLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/TemplateMethodPattern/Example_GameLoader/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/TemplateMethodPattern/Example_GameLoader/WorldOfWarcraftLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +60,7 @@
       <recent name="Design_Patterns.Structural_Patterns.DecoratorPattern.Solution" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Design_Patterns.C_Behavioural_Patterns.StrategyPattern.Example_DriveStrategy.Main">
+  <component name="RunManager" selected="Application.Design_Patterns.C_Behavioural_Patterns.TemplateMethodPattern.Example_GameLoader.MainApp">
     <configuration name="Design_Patterns.C_Behavioural_Patterns.StrategyPattern.Example_DriveStrategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.StrategyPattern.Example_DriveStrategy.Main" />
       <module name="Low_Level_Design" />
@@ -91,6 +80,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.StrategyPattern.Example_PaymentService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Design_Patterns.C_Behavioural_Patterns.TemplateMethodPattern.Example_GameLoader.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.TemplateMethodPattern.Example_GameLoader.MainApp" />
+      <module name="Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.TemplateMethodPattern.Example_GameLoader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,19 +126,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StoreShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_OnlineInventorySystem.StoreShop" />
-      <module name="Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.ObserverPattern.Example_OnlineInventorySystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
@@ -147,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.TemplateMethodPattern.Example_GameLoader.MainApp" />
         <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.StrategyPattern.Example_DriveStrategy.Main" />
         <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.StrategyPattern.Example_PaymentService.MainApp" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.StatePattern.Example_PhoneStates.MainApp" />
-        <item itemvalue="Application.StoreShop" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +156,7 @@
       <workItem from="1695294898459" duration="5670000" />
       <workItem from="1695301761040" duration="7942000" />
       <workItem from="1695363084627" duration="18733000" />
-      <workItem from="1695717666366" duration="47326000" />
+      <workItem from="1695717666366" duration="49171000" />
     </task>
     <servers />
   </component>
@@ -192,6 +181,11 @@
           <url>file://$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/ObserverPattern/Example_YoutubeChService/Subscriber.java</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Design_Patterns/C_Behavioural_Patterns/StrategyPattern/Example_DriveStrategy/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
