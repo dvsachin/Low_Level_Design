@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638dc2df-269b-411f-8fe9-d5778603868c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/AbstractFactory_UML.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/ColorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_AbstractFactory/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_OSTypeGUI/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_OSTypeGUI/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_OSTypeGUI/GUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_OSTypeGUI/MacButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_OSTypeGUI/MacFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_OSTypeGUI/MacTextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_OSTypeGUI/SuperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_OSTypeGUI/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_OSTypeGUI/WinButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_OSTypeGUI/WinFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/AbstractFactoryPattern/Example_OSTypeGUI/WinTextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/BuilderPattern/Example_Bean/Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/BuilderPattern/Example_Bean/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/BuilderPattern/Example_DogBuilder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/BuilderPattern/Example_DogBuilder/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/FactoryPattern/Example_Shape/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/A_Creational_Patterns/FactoryPattern/Example_Shape/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +64,7 @@
       <recent name="Design_Patterns.Structural_Patterns.DecoratorPattern.Solution" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Design_Patterns.A_Creational_Patterns.BuilderPattern.Example_Bean.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Design_Patterns.A_Creational_Patterns.AbstractFactoryPattern.Example_OSTypeGUI.Client" />
       <module name="Low_Level_Design" />
@@ -100,38 +78,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Design_Patterns.A_Creational_Patterns.BuilderPattern.Example_Bean.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.A_Creational_Patterns.BuilderPattern.Example_Bean.Client" />
+      <module name="Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.A_Creational_Patterns.BuilderPattern.Example_Bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Design_Patterns.A_Creational_Patterns.BuilderPattern.Example_DogBuilder.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Patterns.A_Creational_Patterns.BuilderPattern.Example_DogBuilder.Client" />
+      <module name="Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Patterns.A_Creational_Patterns.BuilderPattern.Example_DogBuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Design_Patterns.A_Creational_Patterns.FactoryPattern.Example_Shape.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Design_Patterns.A_Creational_Patterns.FactoryPattern.Example_Shape.Main" />
       <module name="Low_Level_Design" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Design_Patterns.A_Creational_Patterns.FactoryPattern.Example_Shape.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Design_Patterns.C_Behavioural_Patterns.TemplateMethodPattern.Example_GameLoader.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.TemplateMethodPattern.Example_GameLoader.MainApp" />
-      <module name="Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.TemplateMethodPattern.Example_GameLoader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Design_Patterns.C_Behavioural_Patterns.VisitorPattern.Example_InsurenceCompany.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Patterns.C_Behavioural_Patterns.VisitorPattern.Example_InsurenceCompany.MainApp" />
-      <module name="Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Design_Patterns.C_Behavioural_Patterns.VisitorPattern.Example_InsurenceCompany.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Design_Patterns.A_Creational_Patterns.BuilderPattern.Example_Bean.Client" />
+        <item itemvalue="Application.Design_Patterns.A_Creational_Patterns.BuilderPattern.Example_DogBuilder.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Design_Patterns.A_Creational_Patterns.FactoryPattern.Example_Shape.Main" />
-        <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.VisitorPattern.Example_InsurenceCompany.MainApp" />
-        <item itemvalue="Application.Design_Patterns.C_Behavioural_Patterns.TemplateMethodPattern.Example_GameLoader.MainApp" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +160,7 @@
       <workItem from="1695363084627" duration="18733000" />
       <workItem from="1695717666366" duration="50986000" />
       <workItem from="1695833195519" duration="3000" />
-      <workItem from="1695905647613" duration="5651000" />
+      <workItem from="1695905647613" duration="11659000" />
     </task>
     <servers />
   </component>
